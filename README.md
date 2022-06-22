@@ -1,5 +1,16 @@
 # -GitDemo3
 
+We have several commands:
+* git clone link - cloning smb's repositori
+* git remote add origin - call it origin
+* git remote -v - chech if every thing is right
+* git push origin "branch" - make a pull request
+* in browser fork we can make changes in someone else's file
+* we can see that changes we made 
+* we can solve conflicts 
+> in the future i belive it will help me at my work
+
+
 # First task.
 
 ## How to work with text to make it beautiful
